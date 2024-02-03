@@ -8,7 +8,7 @@
 </div>
 <h2>Hey, lovely people 🌈✨</h2>
 <div></div>
-<p>Welcome to my Github playground! I'm 25, based in Fortaleza, Brazil. I'm on a coding adventure filled with passion for music and an endless love for coffee. Join me on this coding journey, and together, let's make the digital realm as friendly as my favorite cup of coffee! Cheers to coding and spreading good vibes! 🚀🌈 
+<p>Welcome to my Github playground! I'm 25, based in Fortaleza, Brazil. I'm on a coding adventure filled with passion for music and an endless love for coffee. Join me on this coding journey, and together, let's make the digital realm as friendly as my favorite cup of coffee! Cheers to coding and spreading good vibes! 
 </p>
 <p align="center">
   <img src="./assets/peach-goma-peach-and-goma.gif" width="220">
@@ -26,7 +26,7 @@
 
 <div></div>
 
-<h3>More about me</h3>
+<h3> 🌞 More about me:</h3>
 <div></div>
   <p align="left">🤿 As a volunteer administrator, I'm part of the <a href="https://www.linkedin.com/company/mulheres-e-tecnologia/">Women in Technology</a> community;</p>
   <p align="left">📚 I've been studying HTML5, CSS3, JavaScript, version control tools, code hosting, and cloud computing;</p>
