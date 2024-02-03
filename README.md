@@ -7,7 +7,7 @@
 <p>I'm Patrícia, but just call me Pat! I'm 25, based in Fortaleza, Brazil, and I'm on a coding adventure filled with passion for music and an endless love for coffee.</p>
 
 <div align="center">
-  <img src="https://tenor.com/view/peach-goma-peach-and-goma-peach-peach-cat-coffee-gif-26865068">
+  <img src="https://tenor.com/pt-BR/view/peach-goma-peach-and-goma-peach-peach-cat-coffee-gif-26865068">
 </div>
 
 
