@@ -26,7 +26,13 @@
 <div></div>
 
 <h3> 🌞 More about me:</h3>
-<div></div>
+<div>
   <p align="left">🤿 As a volunteer administrator, I'm part of the <a href="https://www.linkedin.com/company/mulheres-e-tecnologia/">Women in Technology</a> community;</p>
   <p align="left">📚 I've been studying HTML5, CSS3, JavaScript, version control tools, code hosting, and cloud computing;</p>
   <p align="left">☕ I only wake up with some coffee, love series, and frequently curate awesome playlists.</p>
+</div>  
+<div>
+<a href="https://github.com/patriciacavalcantedc">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=patriciacavalcantedc&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=patriciacavalcantedc&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
