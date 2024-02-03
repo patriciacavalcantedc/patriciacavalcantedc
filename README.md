@@ -1,23 +1,18 @@
-<h1> Hey, lovely people! 🌈✨</h1>
-<div></div>
+
 <!--rede social aqui-->
-<!--meu avatar aqui-->
+<!--meu avatar aqui
 <h2>Welcome to my Github playground!</h2> 
 <div></div>
-<p>I'm Patrícia, but just call me Pat! I'm 25, based in Fortaleza, Brazil, and I'm on a coding adventure filled with passion for music and an endless love for coffee.</p>
+<p>I'm Patrícia, but just call me Pat! I'm 25, based in Fortaleza, Brazil, and I'm on a coding adventure filled with passion for music and an endless love for coffee.</p>-->
 
-<div align="center">
-  <img src="https://tenor.com/bnyeA.gif">
+
+<img align="right" width="250px" style="margin-top:-20px" src="./assets/Avatoon1.png">
+
+<div dsplay="inline-block">
+ <h1 align="left">Hey, lovely people! 🌈✨</h1>
+  <a href="https://www.linkedin.com/in/cavalcantepatricia/">
+    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+  </a>
 </div>
 
 
-<!--Cheers to coding and spreading good vibes! 🚀🌈
-
- - 🔭 Atualmente estou fazendo transição de carreira enquanto sou ADM voluntária na comunidade mulheres e tecnologia ...
-- 🌱 atualmente estou estudando HTML, CSS e JavaScript ...
-- 👯 Estou disponível para trabalhar em conjunto em projetos...
-- 📫 Redes sociais ...
-- 😄 Pronomes: ela/dela
-- ⚡ Fun fact: ...
-
--->
