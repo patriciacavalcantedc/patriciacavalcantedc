@@ -11,7 +11,7 @@
 <div dsplay="inline-block">
  <h1 align="left">Hey, lovely people! 🌈✨</h1>
   <a href="https://www.linkedin.com/in/cavalcantepatricia/">
-    <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
+    <img width="80px" src="./assets/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
 
