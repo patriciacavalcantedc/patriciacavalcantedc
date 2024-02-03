@@ -14,7 +14,7 @@
   <img src="./assets/peach-goma-peach-and-goma.gif" width="220">
 </p>
 
-<h3> 🖥️ Technologies and Tools: </h3>
+<h3> 🖥️ My toolbox: </h3>
 <div></div>
 
 <img width="300px" align="right" src="./assets/Avatoon2.png">
