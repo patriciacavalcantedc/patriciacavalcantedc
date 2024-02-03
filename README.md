@@ -10,9 +10,7 @@
 
 <div dsplay="inline-block">
  <h1 align="left">Hey, lovely people! 🌈✨</h1>
-  <a href="https://www.linkedin.com/in/cavalcantepatricia/">
+  <a href="https://www.linkedin.com/in/cavalcantepatricia/" target="_blank">
     <img width="80px" src="./assets/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
 </div>
-
-
